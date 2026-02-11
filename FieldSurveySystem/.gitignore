@@ -1,0 +1,11 @@
+build/
+*.user
+*.autosave
+*.stash
+*.pro.user
+*.suo
+*.sln
+*.sdf
+*.opensdf
+.vs/
+.vscode/
